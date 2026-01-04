@@ -28,17 +28,14 @@ This reduces time and improves accuracy in identifying qualified candidates.
 ---
 
 ## Project Structure
-RAG-Powered-Resume-Assistant/
-│
-
-├── Documents/ # Folder containing all candidate resumes (PDFs)
-│ ├── Resume 1.pdf
-│ ├── Resume 2.pdf
-│ └── ...
-│
-├── AI_Powered_Resume_Screener.ipynb # Jupyter Notebook containing the RAG pipeline and Gradio interface
-├── requirements.txt # Python dependencies
-└── README.md # Project documentation
+RAG-Resume-Assistant/
+├── Documents/               # Folder containing all candidate resumes (PDFs)
+│   ├── Resume 1.pdf
+│   ├── Resume 2.pdf
+│   └── ...
+├── main.ipynb               # Jupyter Notebook containing the RAG pipeline and Gradio interface
+├── requirements.txt         # Python dependencies
+└── README.md                # Project documentation
 
 ---
 
