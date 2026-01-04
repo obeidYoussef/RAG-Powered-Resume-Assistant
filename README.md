@@ -30,6 +30,7 @@ This reduces time and improves accuracy in identifying qualified candidates.
 ## Project Structure
 RAG-Powered-Resume-Assistant/
 │
+
 ├── Documents/ # Folder containing all candidate resumes (PDFs)
 │ ├── Resume 1.pdf
 │ ├── Resume 2.pdf
