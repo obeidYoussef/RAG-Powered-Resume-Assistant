@@ -41,13 +41,14 @@ RAG-Resume-Assistant/
 
 ## How to Run
 1. **Clone the repository:**
+   
 git clone https://github.com/obeidYoussef/RAG-Powered-Resume-Assistant.git
 
-cd RAG-Powered-Resume-Assistant
+2. cd RAG-Powered-Resume-Assistant
 
-pip install -r Requirments.txt
+3. pip install -r Requirments.txt
 
-Set your Google API Key:
+4. **Set your Google API Key:**
 
 if "GOOGLE_API_KEY" not in os.environ:
 
@@ -66,5 +67,5 @@ if "GOOGLE_API_KEY" not in os.environ:
 
 **Notes**
 - The system supports both FAISS (fast, in-memory) and Chroma (persistent) vector stores.
-- The chunk size for splitting resumes is 1000 with overlap 100 to preserve context.
+- The chunk size for splitting resumes is 1000 with an overlap of 100 to preserve context.
 - You can swap the embedding model in HuggingFaceBgeEmbeddings if you prefer a different one.
