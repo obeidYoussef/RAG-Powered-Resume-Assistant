@@ -47,7 +47,7 @@ This design allows you to easily adapt the project to real-world datasets, exper
 
 RAG-Powered-Resume-Assistant/
 
-├── Documents/               # Folder containing all candidate resumes (PDFs)
+├── Documents/               (# Folder containing all candidate resumes (PDFs))
 
 │   ├── Resume 1.pdf
 
@@ -55,11 +55,11 @@ RAG-Powered-Resume-Assistant/
 
 │   └── ...
 
-├── main.ipynb               # Jupyter Notebook containing the RAG pipeline and Gradio interface
+├── main.ipynb               (# Jupyter Notebook containing the RAG pipeline and Gradio interface)
 
-├── requirements.txt         # Python dependencies
+├── requirements.txt         (# Python dependencies)
 
-└── README.md                # Project documentation
+└── README.md                (# Project documentation)
 
 
 ---
