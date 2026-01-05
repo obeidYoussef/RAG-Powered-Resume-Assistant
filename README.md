@@ -48,8 +48,8 @@ cd RAG-Powered-Resume-Assistant
 pip install -r Requirments.txt
 
 Set your Google API Key:
-if "GOOGLE_API_KEY" not in os.environ:
 
+if "GOOGLE_API_KEY" not in os.environ:
     os.environ["GOOGLE_API_KEY"] = "xxxxxxxxxxxxxxxx"
 
 **Open the notebook and run the cells in AI_Powered_Resume_Screener.ipynb.**
