@@ -27,10 +27,11 @@ This reduces time and improves accuracy in identifying qualified candidates.
 
 ---
 
-About the Resumes (Important)
+**About the Resumes (Important)**
 
 ⚠️ Disclaimer:
-The resumes included in the Documents/ folder are synthetic / fake resumes created for demonstration and testing purposes only. They do not belong to real individuals and contain no real personal data.
+
+The resumes included in the Documents/ folder are synthetic/fake resumes created for demonstration and testing purposes only. They do not belong to real individuals and contain no real personal data.
 
 **Using your own resumes**
 
