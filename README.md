@@ -27,7 +27,7 @@ This reduces time and improves accuracy in identifying qualified candidates.
 
 ---
 
-**About the Resumes (Important)**
+## About the Resumes (Important)
 
 ⚠️ Disclaimer:
 
@@ -44,14 +44,23 @@ The resumes included in the Documents/ folder are **synthetic/fake resumes** cre
 This design allows you to easily adapt the project to real-world datasets, experiments, or custom use cases.
 
 ## Project Structure
-RAG-Resume-Assistant/
+
+RAG-Powered-Resume-Assistant/
+
 ├── Documents/               # Folder containing all candidate resumes (PDFs)
+
 │   ├── Resume 1.pdf
+
 │   ├── Resume 2.pdf
+
 │   └── ...
+
 ├── main.ipynb               # Jupyter Notebook containing the RAG pipeline and Gradio interface
+
 ├── requirements.txt         # Python dependencies
+
 └── README.md                # Project documentation
+
 
 ---
 
