@@ -36,7 +36,9 @@ The resumes included in the Documents/ folder are **synthetic/fake resumes** cre
 **Using your own resumes**
 
   • You are free to delete the existing PDFs in the Documents/ folder.
+  
   • You can upload your own resume PDFs into the same folder.
+  
   • The system will automatically index and process any new documents placed in Documents/.
 
 This design allows you to easily adapt the project to real-world datasets, experiments, or custom use cases.
