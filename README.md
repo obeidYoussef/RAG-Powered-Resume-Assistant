@@ -85,13 +85,6 @@ if "GOOGLE_API_KEY" not in os.environ:
 - Find candidates with 3+ years of experience in NLP
 - List candidates proficient in Python and SQL
 - Who has experience with machine learning and data pipelines?
-<img width="881" height="410" alt="1" src="https://github.com/user-attachments/assets/e0cf7558-0251-4f0d-80e7-df38b3862689" />
-
-<img width="940" height="406" alt="2" src="https://github.com/user-attachments/assets/27333c62-37af-4f63-ab7b-7cfa271a90db" />
-
-<img width="932" height="410" alt="3" src="https://github.com/user-attachments/assets/c390590d-8515-48a3-9cc4-4f38b5bb39b0" />
-
-<img width="934" height="411" alt="4" src="https://github.com/user-attachments/assets/72596d1b-72e7-41d2-8cd9-a5962874f121" />
 
 **Notes**
 - The system supports both FAISS (fast, in-memory) and Chroma (persistent) vector stores.
