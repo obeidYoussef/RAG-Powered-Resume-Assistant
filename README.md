@@ -55,9 +55,9 @@ RAG-Powered-Resume-Assistant/
 
 │   └── ...
 
-├── main.ipynb               (# Jupyter Notebook containing the RAG pipeline and Gradio interface)
+├── AI_Powered_Resume_Screener.ipynb               (# Jupyter Notebook containing the RAG pipeline and Gradio interface)
 
-├── requirements.txt         (# Python dependencies)
+├── Requirements.txt         (# Python dependencies)
 
 └── README.md                (# Project documentation)
 
