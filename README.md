@@ -32,13 +32,13 @@ About the Resumes (Important)
 ⚠️ Disclaimer:
 The resumes included in the Documents/ folder are synthetic / fake resumes created for demonstration and testing purposes only. They do not belong to real individuals and contain no real personal data.
 
-Using your own resumes
+**Using your own resumes**
 
-You are free to delete the existing PDFs in the Documents/ folder.
+  • You are free to delete the existing PDFs in the Documents/ folder.
 
-You can upload your own resume PDFs into the same folder.
+  • You can upload your own resume PDFs into the same folder.
 
-The system will automatically index and process any new documents placed in Documents/.
+  • The system will automatically index and process any new documents placed in Documents/.
 
 This design allows you to easily adapt the project to real-world datasets, experiments, or custom use cases.
 
