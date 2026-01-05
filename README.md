@@ -62,9 +62,7 @@ RAG-Powered-Resume-Assistant/
 ---
 
 ## How to Run
-1. **Clone the repository:**
-   
-git clone https://github.com/obeidYoussef/RAG-Powered-Resume-Assistant.git
+1. **Clone the repository:** git clone https://github.com/obeidYoussef/RAG-Powered-Resume-Assistant.git
 
 2. cd RAG-Powered-Resume-Assistant
 
